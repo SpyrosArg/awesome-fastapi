@@ -65,6 +65,7 @@
 ### CyberSecurity
 
 - [FastAPI Guard](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+- [Verum](https://github.com/SpyrosArg/Verum) - Cryptographic middleware for AI input integrity. Seals request data before AI processing and binds the proof to every response.
 
 ### Databases
 
